@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserDaoHibernateImpl implements UserDao {
+public class UserDaoHibernateImpl  implements UserDao {
     public UserDaoHibernateImpl() {
 
     }
